@@ -3,4 +3,4 @@ Logo depois, o programa mostra os dados do produto e em seguida é exigido a qua
 Ao final, é mostradotodos dados.
 
 Conceitos utilizados:
-Construtor (para obrigar que o objeto receba os dados), this.
+Construtor (para obrigar que o objeto receba os dados), this e encapsulameto.
